@@ -2,26 +2,26 @@
 The Lutsu manifesto
 ===================
 
-We, the signers of this manifesto, declare that we want a world where digitally
-published content may be used and shared by everyone and no longer be
-considered a "private property" for which the "owner" decides how it may be
-used or not.  This includes publications formulated as text, picture, sound,
-movie or source code, and ranging from simple postings in an Internet forum to
-books, songs, movies, scientific reports, patents.
+We, the signers of this manifesto, declare that we want a world where published
+content may be used and shared by everyone.  Published content should no longer
+be considered a "private property" for which the "owner" has a "right" to
+decide how it may be used or not.  This includes publications formulated as
+text, picture, sound, movie or source code, and ranging from simple postings in
+an Internet forum to books, songs, movies, scientific reports, patents.
 
-We **do not want to abolish copyright** as a whole.  We want to abolish a part
-of it and enforce the other part.  Laws about what is commonly called
-"copyright" are about two very different components:
+We **do not want to act against any law**, we want our governments to
+**fundamentally change** some of our laws currently called "copyright". These
+laws are about two very different components:
 
-- Some copyright laws give the author a *right to control* how others
-  use his work.  We want to abolish these.
+- Some copyright laws give the author a **right to control** how others
+  use his work.  We want our governments to abolish these.
 
-- On the other hand there are laws that protect the author's *right to
-  get acknowledged* and honoured as the creator of their work.  We
-  want to maintain and extend these.
+- Some other copyright laws protect the author's **right to
+  get acknowledged** (identified and honoured) as the creator of their work.  We
+  want our governments to maintain and extend these.
 
 We **want a fundamental change** in the way of how producers of digital content
-are being rewarding. Publishing content should be considered an act of public
+are being rewarded. Publishing content should be considered an act of public
 interest and rewarded as such.  The current copyright is rather a lottery than
 a serious rewarding system. You *may* occasionally get famous and rich, but you
 need a big portion of good luck and a good manager.
@@ -35,15 +35,15 @@ fundamental.  For example existing copyright holders must review their
 established methods of generating income, governments must review their
 laws,...
 
-We believe **despite these challenges** that a transition is (a) possible and
-(b) necessary.  We believe that this change is necessary because regulating the
+We believe **despite these challenges** that a transition is possible and
+necessary.  We believe that this change is necessary because regulating the
 use and sharing of digitally published content has become a Sisyphean task
 causing absurd laws and requiring hordes of human resources in public
 administrations.
 
 **By signing this manifesto** we declare that we do our best to realize the
 principal necessity of this fundamental change and to carefully develop
-transition plans.  We ask any reader of this manifesto to join our movement in
+transition plans.  We ask the reader of this manifesto to join our movement in
 order to start thinking together.
 
 Author and maintainer of this document: Luc Saffre <luc.saffre@gmail.com>
