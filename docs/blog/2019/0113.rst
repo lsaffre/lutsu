@@ -1,0 +1,43 @@
+:date: 2019-01-13
+
+========================
+The "Lutsu club" vision
+========================
+
+Posted by Luc Saffre on Sunday, January 13, 2019.
+
+Imagine that some countries would declare to found a "Lutsu club" and sign the :doc:`manifesto </manifesto>`.  They would
+adapt their laws and state that they refuse to protect usage rights on
+intellectual property.  Citizens of those countries would have the legal right
+to freely copy and reuse anything that has been published anywhere in the
+world, including in countries who are not member of the Lutsu club.
+
+The Lutsu club countries would found an international NGO whose mission would
+be to manage the revenues on public commons.  Every member country would
+collect a "public commons" tax from its citizens. Content producers in the
+Lutsu countries would receive a part of this income.
+
+Of course the NGO would also have quite some administrative costs for
+distributing the income in a transparent and democratic way.  It would probably
+set up different systems for measuring the "merits" of content providers.  For
+example it might ask the individual citizens to "vote" for their favourite
+content providers. It might employ experts of different areas who would
+evaluating content.  All these costs would probably remain below the current
+costs for enforcing copyrights.
+
+Content producers located in non-member countries might try to protect their
+"property". They might try to prevent "their" content from "leaking" into the
+free countries by manipulating the Internet or by other means.  They might
+declare war against the Lutsu club countries. But there's an easier solution:
+they just a open branch office in some member country and apply for financial
+contribution.  And they will receive a transparently and democratically
+allocated contribution which will be theoretically equivalent to their
+production costs.
+
+All basic activities of content providers would continue as now, but of course
+would gradually adapt to the new commercial situation.
+
+Above vision is based on the assumption that the member countries collect a
+"public commons tax".  That should be the topic for our next blog post.
+
+
