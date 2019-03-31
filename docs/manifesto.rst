@@ -9,16 +9,13 @@ decide how it may be used or not.  This includes publications formulated as
 text, picture, sound, movie or source code, and ranging from simple postings in
 an Internet forum to books, songs, movies, scientific reports, patents.
 
-We **do not want to act against any law**, we want our governments to
-**fundamentally change** some of our laws currently called "copyright". These
-laws are about two very different components:
-
-- Some copyright laws give the author a **right to control** how others
-  use his work.  We want our governments to abolish these.
-
-- Some other copyright laws protect the author's **right to
-  get acknowledged** (identified and honoured) as the creator of their work.  We
-  want our governments to maintain and extend these.
+We **do not want to act against any law**. We want our governments to
+fundamentally change** some of them. The laws currently called "copyright" are
+about two very different rights. Some copyright laws protect the author's
+**right to get honoured** (identified and acknowledgedas the creator of their
+work).  We want our governments to maintain and extend these laws. But some
+other copyright laws give the author a **right to control** how others use
+their work. We want our governments to abolish these laws.
 
 We **want a fundamental change** in the way of how producers of digital content
 are being rewarded. Publishing content should be considered an act of public
