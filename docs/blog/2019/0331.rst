@@ -1,19 +1,18 @@
 :date: 2019-03-31
 
 ======================
-Sunday, March 31, 2019
+Not so dark
 ======================
 
 The EU's new `copyright directive
 <https://en.wikipedia.org/wiki/Directive_on_Copyright_in_the_Digital_Single_Market>`__
-is **actually a good thing for free culture**. I signed petitions against this
-directive, but now I changed my mind. The EU is right, I was wrong. This
-thought has been knocking at my brain for quite some time, but I realized this
-only now.
+is **actually a good thing for free culture**.  Yes, I have signed petitions
+against this directive, and only two days ago I wrote :doc:`0329`, but we can see it positively.
 
 Imagine a guy who would find some *legal* way to distribute guns or other
 weapons to school children.  The number of accidents would increase, wouldn't
-it? And who would be responsible?
+it?  Who would profit from it?  That guy of course. And who would be legally
+responsible? *Not* that guy of course.
 
 When you operate a platform that gives people the possibility to upload and
 share digital content, you make profit from the fact that people love sharing,
@@ -24,13 +23,19 @@ filters makes things clear.
 
 Or when you pay a team of journalists for writing good news articles, and when
 you earn money by letting your customers pay for the usage of your work, you
-will of course not* be glad if somebody finds a legal way for sharing your work
-without asking your permission. The law about link tax makes things clear.
+won't be glad if somebody finds a legal way for sharing your work without
+asking your permission. The law about link tax makes things clear.
 
-The copyright directive is a good thing for free culture because it shows that
-copyright is getting absurd.
+As long as we assume that sharing copyrighted material is a criminal act, we
+need to define ways for controlling and punishing those who share without
+permission. This control is getting absurd in a digital civilization where
+every youngster can potentially produce and publish creative content. The
+copyright directive shows that our traditional concept of copyright is obsolete
+and needs revision.
 
-The copyright system has become absurd in a digital civilization. It is time to
-realize it.  If you agree with me, consider joining the `Lutsu project
-<http://lutsu.saffre-rumma.net/>`__.
+That's why the EU's new copyright directive was a good thing for free culture.
+It expressed where that obsolete understanding of copyright will lead us if we
+don't review it. It is time to realize this.  If you agree with me, consider
+signing the `Lutsu manifesto <http://lutsu.saffre-rumma.net/>`__.
 
+Sunday, March 31, 2019

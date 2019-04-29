@@ -1,10 +1,7 @@
 :date: 2019-03-29
 
-======================
-Friday, March 29, 2019
-======================
-
-Directive on Copyright in the Digital Single Market
+===================================================
+A Dark Day for the Web
 ===================================================
 
 "A Dark Day for the Web: EU Parliament Approves Damaging Copyright Rules"
@@ -13,18 +10,22 @@ Directive on Copyright in the Digital Single Market
 
 My comment: Has somebody tried to compute how much human power and public money
 has been used in the last five years for this discussion? I don't know the
-number, but we probably agree that it is *huge*.
+number, but we probably agree that it is *huge*. What a waste of money and
+energy! It is wasted because it is on a foundation that is going to vanish.
 
-What a waste of money and energy! It is wasted since it goes into the wrong
-direction.
+The author's right of owning a digitally published content (and deciding how it
+may be used or not) is similar to that law about owning the space above and
+below your land.
 
 Until 1945, American law held that a property owner presumptively owned not
 just the surface of his land, but all the land below, down to the center of the
 earth, and all the space above, to “an indefinite extent, upwards.” (Lawrence
 Lessig in `Free Culture <http://www.authorama.com/free-culture-2.html>`__)
 
-The author's right of owning a digitally published content (and deciding how it
-may be used or not) is similar to that law about owning the space above and
-below your land. It is time to realize it.  If you agree, please consider
-helping the `Lutsu project <http://lutsu.saffre-rumma.net/>`__.
+It is time to realize it.  If you agree with me, consider signing the `Lutsu
+manifesto <http://lutsu.saffre-rumma.net/>`__.
 
+
+Friday, March 29, 2019.
+
+But see also :doc:`0331`
