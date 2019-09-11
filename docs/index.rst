@@ -13,7 +13,6 @@ Sitemap
 
    manifesto
    related
-   blog/index
    about/index
 
 
