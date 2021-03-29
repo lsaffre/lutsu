@@ -5,7 +5,7 @@ cfg = dict()
 cfg.update(tolerate_sphinx_warnings=True)
 # cfg.update(blog_root='/home/luc/work/lutsu/')
 cfg.update(languages=['en'])
-cfg.update(doc_trees=['docs'])
+cfg.update(doc_trees=[])
 cfg.update(revision_control_system='git')
 
 #print("20190515 b", cfg)
