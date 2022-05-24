@@ -9,15 +9,15 @@ templates_path = []
 
 configure(globals())
 
-extensions += ['atelier.sphinxconf.blog']
-extensions += ['atelier.sphinxconf.complex_tables']
+extensions += ['rstgen.sphinxconf.blog']
+extensions += ['rstgen.sphinxconf.complex_tables']
 # extensions += ['lino.sphinxcontrib.logo']
 extensions += ['lino.sphinxcontrib.base']  # for tcname
 # extensions += ['sphinxcontrib.taglist']
 extensions += ['sphinxcontrib.youtube']
 # extensions += ['sphinx.ext.inheritance_diagram']
 
-# extensions += ['atelier.sphinxconf.sigal_image']
+# extensions += ['rstgen.sphinxconf.sigal_image']
 
 # sigal_base_url = 'http://sigal.saffre-rumma.net'
 
